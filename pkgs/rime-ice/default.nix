@@ -8,8 +8,8 @@ stdenv.mkDerivation {
   version = "0.1";
 
   src = fetchurl {
-    url = "https://github.com/iDvel/rime-ice/archive/d5c52a962653fc7233ba5c48641c390c9390618e.tar.gz";
-    sha256 = "sha256-+x16pbwlmqh67B6xPAzSHQYh/xnBLOXeuyZ9bQcpd74=";
+    url = "https://github.com/ikoxcw/rime-icea/archive/59e37e99ebabb58339af85727f72d4b192c3cfd7.tar.gz";
+    sha256 = "sha256-j3m9CD/s7G07Kl7zpE82AS6siDNJW/rrKko4y3b/g5Q=";
   };
 
   buildPhase = ''
